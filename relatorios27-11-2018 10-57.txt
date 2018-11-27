@@ -1,0 +1,96 @@
+-------RELATÓRIO-DE-VENDAS-------
+                      
+                      
+-DATA VENDA: 2017-11-23
+-Id da venda:   1
+-Nome vendedor: MARQUINHOS SANTOS
+-Nome cliente: MAURO GALVÃO
+-Marca: VOLKSWAGEN
+-Modelo: GOL
+-Cor: BRANCO
+-Chassis: XER9875980940298
+-Valor: R$ 28000.0
+------------------------------------
+                      
+-DATA VENDA: 2018-04-21
+-Id da venda:   2
+-Nome vendedor: FANTIQUE MOTTA
+-Nome cliente: CLODOALDO DE SOUZA
+-Marca: VOLKSWAGEN
+-Modelo: PARATI
+-Cor: PRETO
+-Chassis: TEE784749473393F
+-Valor: R$ 65000.0
+------------------------------------
+                      
+-DATA VENDA: 2018-01-11
+-Id da venda:   3
+-Nome vendedor: MARQUINHOS SANTOS
+-Nome cliente: PAULO MIRANDA
+-Marca: MITSUBISHI
+-Modelo: ASX
+-Cor: PRETO
+-Chassis: AUR8795859484796T
+-Valor: R$ 60000.0
+------------------------------------
+                      
+-DATA VENDA: 2018-06-07
+-Id da venda:   4
+-Nome vendedor: WILLIAN NASCIMENTO
+-Nome cliente: ANDRE GARCIA
+-Marca: RENAULT
+-Modelo: SANDEIRO
+-Cor: PRATA
+-Chassis: ERG768674847498OY
+-Valor: R$ 72000.0
+------------------------------------
+                      
+-DATA VENDA: 2018-03-19
+-Id da venda:   5
+-Nome vendedor: EVANDO SILVA
+-Nome cliente: DIJALMA SANTOS
+-Marca: KIA
+-Modelo: SORENTO
+-Cor: VERMELHO
+-Chassis: ARG6575855847376U
+-Valor: R$ 36500.0
+------------------------------------
+                      
+-DATA VENDA: 2018-05-30
+-Id da venda:   6
+-Nome vendedor: FANTIQUE MOTTA
+-Nome cliente: LAIS FIGUEIREDO
+-Marca: FIAT
+-Modelo: PALIO
+-Cor: PRATA
+-Chassis: BRA4567898883276Y
+-Valor: R$ 40200.0
+------------------------------------
+                      
+-DATA VENDA: 2018-02-21
+-Id da venda:   7
+-Nome vendedor: MARQUINHOS SANTOS
+-Nome cliente: JOANA DE GUSMÃO
+-Marca: FIAT
+-Modelo: BRAVO
+-Cor: BRANCO
+-Chassis: SET5647890943267A
+-Valor: R$ 72500.0
+------------------------------------
+                      
+-DATA VENDA: 2018-11-27
+-Id da venda:   8
+-Nome vendedor: EVANDO SILVA
+-Nome cliente: CLODOALDO DE SOUZA
+-Marca: RENAULT
+-Modelo: SANDEIRO
+-Cor: PRATA
+-Chassis: ERG768674847498OY
+-Valor: R$ 72000.0
+------------------------------------
+                      
+----------------------------------
+RELATÓRIO EMITIDO EM 27-11-2018 10-57
+----------------------------------
+                      
+Versão 1.0
