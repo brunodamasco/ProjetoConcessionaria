@@ -193,9 +193,9 @@ public class GerenciarModelos extends JInternalFrame {
 		table.setFont(new Font("Tahoma", Font.PLAIN, 18));
 		scrollPane.setViewportView(table);
 		
-		JLabel lblPesquisarMarcamodelo = new JLabel("Pesquisar marca/modelo");
+		JLabel lblPesquisarMarcamodelo = new JLabel("Pesquisar modelo:");
 		lblPesquisarMarcamodelo.setFont(new Font("Tahoma", Font.PLAIN, 18));
-		lblPesquisarMarcamodelo.setBounds(15, 246, 202, 33);
+		lblPesquisarMarcamodelo.setBounds(55, 246, 148, 33);
 		getContentPane().add(lblPesquisarMarcamodelo);
 		
 		tfPesquisarModelos = new JTextField();
@@ -203,12 +203,11 @@ public class GerenciarModelos extends JInternalFrame {
 			@Override
 			public void keyReleased(KeyEvent arg0) {
 				modeloControl.pesquisarNomeModelo();
-				//marcasControl.pesquisarNomeMarca();
 			}
 		});
 		tfPesquisarModelos.setFont(new Font("Tahoma", Font.PLAIN, 20));
 		tfPesquisarModelos.setColumns(10);
-		tfPesquisarModelos.setBounds(218, 246, 202, 33);
+		tfPesquisarModelos.setBounds(218, 246, 248, 33);
 		getContentPane().add(tfPesquisarModelos);
 		
 		cbMarca = new JComboBox();

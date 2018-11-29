@@ -62,7 +62,7 @@ public class HistoricoControl {
 			SimpleDateFormat dtf = new SimpleDateFormat("dd-MM-yyyy HH-mm");
 			String data = dtf.format(dataSistema);
 			try {
-				arq = new FileWriter("C:\\Users\\Bruno\\git\\ProjetoDesktop\\ProjetoConcessionaria\\relatorios"+ data +".txt");
+				arq = new FileWriter("C:\\Users\\Bruno\\git\\ProjetoDesktop\\ProjetoConcessionaria\\relatorios\\"+ data +".txt");
 				PrintWriter gravarArq = new PrintWriter(arq);
 				gravarArq.printf("-------RELATÓRIO-DE-VENDAS-------%n");
 				gravarArq.printf("                      %n");
@@ -113,7 +113,7 @@ public class HistoricoControl {
 			SimpleDateFormat dtf = new SimpleDateFormat("dd-MM-yyyy HH-mm");
 			String data = dtf.format(dataSistema);
 			try {
-				arq = new FileWriter("C:\\Users\\Bruno\\git\\ProjetoDesktop\\ProjetoConcessionaria\\relatorios"+ data +".txt");
+				arq = new FileWriter("C:\\Users\\Bruno\\git\\ProjetoDesktop\\ProjetoConcessionaria\\relatorios\\"+ data +".txt");
 				PrintWriter gravarArq = new PrintWriter(arq);
 				gravarArq.printf("---- RELATÓRIO DOS VENDEDORES ----%n");
 				gravarArq.printf("                      %n");

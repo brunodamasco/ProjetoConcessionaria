@@ -133,7 +133,7 @@ public class HistoricoVendas extends JInternalFrame {
 				historicoControl.relatorioVendedorTXT();;
 				Desktop desk = Desktop.getDesktop();
 				try {
-					desk.open(new File("C:\\Users\\Bruno\\git\\ProjetoDesktop\\ProjetoConcessionaria\\relatorios"+ data +".txt"));
+					desk.open(new File("C:\\Users\\Bruno\\git\\ProjetoDesktop\\ProjetoConcessionaria\\relatorios\\"+ data +".txt"));
 				} catch (IOException e) {
 					e.printStackTrace();
 				}
@@ -176,7 +176,7 @@ public class HistoricoVendas extends JInternalFrame {
 				historicoControl.relatorioVendasTXT();;
 				Desktop desk = Desktop.getDesktop();
 				try {
-					desk.open(new File("C:\\Users\\Bruno\\git\\ProjetoDesktop\\ProjetoConcessionaria\\relatorios"+ data +".txt"));
+					desk.open(new File("C:\\Users\\Bruno\\git\\ProjetoDesktop\\ProjetoConcessionaria\\relatorios\\"+ data +".txt"));
 				} catch (IOException b) {
 					b.printStackTrace();
 				}

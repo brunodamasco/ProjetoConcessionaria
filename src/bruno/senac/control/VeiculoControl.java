@@ -142,7 +142,6 @@ public class VeiculoControl {
 		}
 		veiculos = null;
 		atualizarJTableAction();
-		limparTextfield();
 	}
 
 	public void cadastrarAction() {

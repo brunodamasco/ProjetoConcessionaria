@@ -1,4 +1,4 @@
--------RELATÓRIO-DE-VENDAS-------
+---- RELATÓRIO DOS VENDEDORES ----
                       
                       
 -DATA VENDA: 2017-11-23
@@ -26,7 +26,7 @@
 -DATA VENDA: 2018-01-11
 -Id da venda:   3
 -Nome vendedor: MARQUINHOS SANTOS
--Nome cliente: PAULO MIRANDA
+-Nome cliente: ROBERTA
 -Marca: MITSUBISHI
 -Modelo: ASX
 -Cor: PRETO
@@ -78,10 +78,10 @@
 -Valor: R$ 72500.0
 ------------------------------------
                       
--DATA VENDA: 2018-11-27
+-DATA VENDA: 2018-11-29
 -Id da venda:   8
--Nome vendedor: EVANDO SILVA
--Nome cliente: CLODOALDO DE SOUZA
+-Nome vendedor: FANTIQUE MOTTA
+-Nome cliente: ANDRE GARCIA
 -Marca: RENAULT
 -Modelo: SANDEIRO
 -Cor: PRATA
@@ -89,8 +89,42 @@
 -Valor: R$ 72000.0
 ------------------------------------
                       
-----------------------------------
-RELATÓRIO EMITIDO EM 27-11-2018 10-15
-----------------------------------
+-DATA VENDA: 2018-11-29
+-Id da venda:   9
+-Nome vendedor: WILLIAN NASCIMENTO
+-Nome cliente: CLODOALDO DE SOUZA
+-Marca: VOLKSWAGEN
+-Modelo: GOL
+-Cor: BRANCO
+-Chassis: XER9875980940298
+-Valor: R$ 28000.0
+------------------------------------
+                      
+-DATA VENDA: 2018-11-29
+-Id da venda:  10
+-Nome vendedor: EVANDO SILVA
+-Nome cliente: JOANA DE GUSMÃO
+-Marca: VOLKSWAGEN
+-Modelo: GOL
+-Cor: AZUL
+-Chassis: KJN6776767
+-Valor: R$ 50000.0
+------------------------------------
+                      
+-DATA VENDA: 2018-11-29
+-Id da venda:  11
+-Nome vendedor: WILLIAN NASCIMENTO
+-Nome cliente: ROBERTA
+-Marca: VOLKSWAGEN
+-Modelo: PARATI
+-Cor: PRETO
+-Chassis: TEE784749473393F
+-Valor: R$ 65000.0
+------------------------------------
+Veículos vendidos: 11
+Total das vendas R$ 589200.0                      
+------------------------------------
+RELATÓRIO EMITIDO EM 29-11-2018 07-54
+------------------------------------
                       
 Versão 1.0

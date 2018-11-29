@@ -19,6 +19,8 @@ import bruno.senac.control.MarcasControl;
 import javax.swing.JFrame;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
+import java.awt.event.KeyAdapter;
+import java.awt.event.KeyEvent;
 
 public class GerenciarMarcas extends JInternalFrame {
 	private JTextField tfNomeMarca;
@@ -108,6 +110,12 @@ public class GerenciarMarcas extends JInternalFrame {
 		getContentPane().add(lblPesquisarMarca);
 		
 		tfPesquisarMarcas = new JTextField();
+		tfPesquisarMarcas.addKeyListener(new KeyAdapter() {
+			@Override
+			public void keyReleased(KeyEvent arg0) {
+				marcasControl.pesquisarNomeMarca();
+			}
+		});
 		tfPesquisarMarcas.setFont(new Font("Tahoma", Font.PLAIN, 20));
 		tfPesquisarMarcas.setColumns(10);
 		tfPesquisarMarcas.setBounds(278, 229, 319, 33);

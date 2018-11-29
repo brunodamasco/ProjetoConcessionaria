@@ -1,4 +1,4 @@
----- RELATÓRIO DOS VENDEDORES ----
+-------RELATÓRIO-DE-VENDAS-------
                       
                       
 -DATA VENDA: 2017-11-23
@@ -78,20 +78,8 @@
 -Valor: R$ 72500.0
 ------------------------------------
                       
--DATA VENDA: 2018-11-27
--Id da venda:   8
--Nome vendedor: EVANDO SILVA
--Nome cliente: CLODOALDO DE SOUZA
--Marca: RENAULT
--Modelo: SANDEIRO
--Cor: PRATA
--Chassis: ERG768674847498OY
--Valor: R$ 72000.0
-------------------------------------
-Veículos vendidos: 8
-Total das vendas R$ 446200.0                      
-------------------------------------
-RELATÓRIO EMITIDO EM 27-11-2018 10-03
-------------------------------------
+----------------------------------
+RELATÓRIO EMITIDO EM 29-11-2018 07-10
+----------------------------------
                       
 Versão 1.0
